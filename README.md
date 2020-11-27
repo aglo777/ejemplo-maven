@@ -1,6 +1,6 @@
 # Getting Started
 
-## Windows
+## Windows 10?
 
 ### Compile Code
 * ./mvnw.cmd clean compile -e
